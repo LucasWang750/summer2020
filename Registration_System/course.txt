@@ -1,0 +1,2 @@
+ICS 031;09/01/14;12/20/14;Introduction to Programming;Introduction to fundamental concepts and Introduction to fundamental concepts and techniques for writing software in a high-level programming language;10;0
+ICS 132;09/01/14;12/20/14;Computer Networks;An introductory course on computer network architectures.;15;1

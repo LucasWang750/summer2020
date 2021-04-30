@@ -1,0 +1,13 @@
+Mike, Lee,    000-00-0001,   B
+
+
+Lisa, Williams, 000-00-0002, A
+
+Steven, Wang, 000-00-0003,      C
+Kelly, Lee, 000-00-0004, A
+
+Shaun, Wang, 000-00-0005, B
+Bob, Lee, 000-00-0006 ,     C
+Bob, Lee, 000-00-0006 ,     C
+
+Andrew, Arko, 000-00-0007, A

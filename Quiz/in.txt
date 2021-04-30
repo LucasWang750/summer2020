@@ -1,0 +1,12 @@
+Birb;15;red
+
+
+
+
+Dog;13;brown
+
+
+
+Cat;5;neon
+Elllizsabeth;93;blue
+Lmao;65;white
